@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Strings generales -->
+    <string name="app_name">Lyrik</string>
+
+    <!-- Strings para los Views -->
+    <string name="GenreText">Provincia</string>
+    <string name="ArtistText">Canton</string>
+    <string name="LyricList">Letras de</string>
+
+
+</resources>
